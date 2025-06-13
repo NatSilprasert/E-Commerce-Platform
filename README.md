@@ -15,7 +15,7 @@ A Full Stack E-commerce Website using **ReactJS**, **NodeJS**, **ExpressJS** and
 	- 🛍️ Search, Filter, Sort Products 
 	- 🛒 Shopping Cart Features
 	- 📦 Place Order Features
-    	- 📱 Mobile Responsive
+   - 📱 Mobile Responsive
 
 - **Admin Features**
 	- 🧑‍💻 Admin Dashboard
